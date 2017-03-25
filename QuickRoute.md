@@ -1,12 +1,27 @@
 ### QuickRoute 解法  
 对应 Apple app store 里的 QuickRoute 游戏  
 
-#### § 1.Alpha 
+ 
+#### § 1.Aegean 爱琴海
+- 1.1  
+[](solving/1.1.svg) 
+
+- 1.2  
+[](solving/1.2.svg)  
+#### § 2.Balearic 巴利阿里
+
+#### § 3.Caribbean 加勒比
+
+#### § 4.Halmahera 哈马黑拉
+
+#### § 5.Laccadive 拉克代夫
+
+#### § 6.Sargasso 马尾藻
+
+#### § 7.Timor 帝汶
 
 
-- 1.6 圆心 *2L 5E*  
-解：[2L，垂分线工具，在圆周上任做2条垂分线，交点即为圆心。](solving/8888888888.svg)  
-解：[5E，画圆工具，用三个圆和两条直线得到两条垂分线。](solving/1111111.svg)  
+  
 
 - 1.7 圆内接正方形 *6L 7E*  
 解：[6L，1.直线连接圆心和给定点得到直径；2.作直径的垂分线。](solving/1.7.1.png)  
