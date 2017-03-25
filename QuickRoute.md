@@ -3,11 +3,8 @@
 
  
 #### § 1.Aegean 爱琴海
-- 1.1  
-[](solving/1.1.svg) 
-
-- 1.2  
-[](solving/1.2.svg)  
+- 1.1  [](solving/1.1.svg) 
+- 1.2  [](solving/1.2.svg)  
 #### § 2.Balearic 巴利阿里
 
 #### § 3.Caribbean 加勒比
