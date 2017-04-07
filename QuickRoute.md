@@ -1,7 +1,3 @@
-### QuickRoute 解法  
-对应 Apple app store 里的 QuickRoute 游戏  
-
- 
 #### § 1.Aegean 爱琴海
 
 
